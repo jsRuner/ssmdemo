@@ -8,9 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>ssm示例代码</title>
   </head>
   <body>
-  $END$
+
+  <a href="/ssmdemo/user/list" target="_blank"> 针对用户的增删改查的实现</a>
   </body>
 </html>
